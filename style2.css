@@ -1,0 +1,15 @@
+.body {
+	background-color: lightslategray;
+	font-family: 'Sulphur Point', sans-serif;
+}
+.header {
+	background-color: darkslategray;
+	color: lightslategray gray;
+	text-align: center;
+}
+.review {
+	background-color: darkslategray;
+	color: lightslategray gray;
+	text-align: center;
+	list-style-type: none;
+}

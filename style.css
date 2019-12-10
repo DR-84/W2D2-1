@@ -1,0 +1,13 @@
+.body {
+	background-color: blueviolet;
+}
+.header {
+	background-color: chartreuse;
+	color: hotpink;
+	text-align: center;
+}
+.review {
+	background-color: rgb(255, 0, 0);
+	color: rgb(0, 255, 0);
+	text-align: center;
+}
